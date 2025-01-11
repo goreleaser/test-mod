@@ -1,4 +1,4 @@
-module github.com/goreleaser/test-modx
+module github.com/goreleaser/test-mod
 
 go 1.22.10
 
